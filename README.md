@@ -1,4 +1,4 @@
 # git-demo
-this is my 2nd repository
+This is my 2nd repository
 <br>
-This is used by Ahmad
+This is used by Ahmad(sayyed ziyagit)
